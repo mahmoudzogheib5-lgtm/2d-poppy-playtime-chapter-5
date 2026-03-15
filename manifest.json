@@ -1,0 +1,27 @@
+{
+  "name": "2D Poppy Playtime: Chapter 5",
+  "short_name": "Poppy Ch5",
+  "description": "Made by a 9 year old called Mahmoud. 72 levels of factory horror. Can you beat The Prototype?",
+  "start_url": "./",
+  "scope": "./",
+  "display": "fullscreen",
+  "orientation": "landscape",
+  "background_color": "#020008",
+  "theme_color": "#7c3aed",
+  "lang": "en",
+  "dir": "ltr",
+  "icons": [
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
